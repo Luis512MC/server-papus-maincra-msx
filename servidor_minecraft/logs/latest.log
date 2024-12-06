@@ -196,3 +196,39 @@
 [03:16:09] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
 [03:16:09] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
 [03:16:13] [Server thread/WARN]: Luis512MC moved too quickly! 14.562223243991923,1.7531999805212024,-0.18451384812232163
+[03:16:34] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:16:34] [Server thread/INFO]: Luis512MC left the game
+[03:16:42] [User Authenticator #2/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:16:44] [Server thread/INFO]: Luis512MC joined the game
+[03:16:44] [Server thread/INFO]: Luis512MC[/127.48.121.197:40003] logged in with entity id 2842 at ([world_nether]207.69999998807907, 74.18947261797402, -133.08299563134452)
+[03:17:26] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:17:26] [Server thread/INFO]: Luis512MC left the game
+[03:17:34] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[03:17:34] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[03:17:34] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client timed out
+[03:17:34] [Server thread/INFO]: .CrashBlock73577 left the game
+[03:17:45] [User Authenticator #3/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:17:46] [Server thread/INFO]: Luis512MC joined the game
+[03:17:46] [Server thread/INFO]: Luis512MC[/127.48.121.197:34687] logged in with entity id 3035 at ([world_nether]204.08814477358067, 73.09456764752272, -132.84977574106267)
+[03:18:29] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:18:29] [Server thread/INFO]: Luis512MC left the game
+[03:18:41] [User Authenticator #3/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:18:43] [Server thread/INFO]: Luis512MC joined the game
+[03:18:43] [Server thread/INFO]: Luis512MC[/127.48.121.197:44599] logged in with entity id 3138 at ([world_nether]204.49410251937613, 75.29396647602663, -131.66109545385495)
+[03:18:45] [Server thread/INFO]: Luis512MC fell from a high place
+[03:19:30] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:19:30] [Server thread/INFO]: Luis512MC left the game
+[03:19:46] [User Authenticator #4/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:19:47] [Server thread/INFO]: Luis512MC joined the game
+[03:19:47] [Server thread/INFO]: Luis512MC[/127.48.121.197:37781] logged in with entity id 3514 at ([world]90.2882283404449, 76.0, 100.45884892458206)
+[03:19:52] [Server thread/INFO]: Luis512MC issued server command: /acfetch 1
+[03:20:03] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[03:20:03] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[03:20:05] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[03:20:13] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[03:25:09] [Server thread/INFO]: Luis512MC was shot by Skeleton
+[03:25:13] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[03:25:27] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[03:25:44] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:25:44] [Server thread/INFO]: Luis512MC left the game
+[03:26:24] [User Authenticator #5/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
