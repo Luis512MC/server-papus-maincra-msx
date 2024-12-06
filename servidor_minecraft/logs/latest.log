@@ -232,3 +232,45 @@
 [03:25:44] [Server thread/INFO]: Luis512MC lost connection: Timed out
 [03:25:44] [Server thread/INFO]: Luis512MC left the game
 [03:26:24] [User Authenticator #5/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:26:27] [Server thread/INFO]: Luis512MC joined the game
+[03:26:27] [Server thread/INFO]: Luis512MC[/127.48.121.197:35989] logged in with entity id 5311 at ([world]341.5, 63.0, 280.5)
+[03:27:16] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[03:27:16] [Server thread/INFO]: Luis512MC left the game
+[03:27:34] [User Authenticator #6/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:27:36] [Server thread/INFO]: Luis512MC joined the game
+[03:27:36] [Server thread/INFO]: Luis512MC[/127.48.121.197:60817] logged in with entity id 5630 at ([world]376.7691566326176, 67.01560240745883, 338.0781781152678)
+[03:30:29] [Server thread/INFO]: Luis512MC issued server command: /locate structure minecraft:village_savanna
+[03:30:30] [Server thread/INFO]: Locating element minecraft:village_savanna took 1136 ms
+[03:30:37] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[03:30:37] [localSession-7-3/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[03:30:37] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[03:30:37] [Server thread/INFO]: .CrashBlock73577 joined the game
+[03:30:37] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 6792 at ([world]1695.2178, 128.0, -693.955)
+[03:30:44] [Server thread/INFO]: Luis512MC issued server command: /locate structure minecraft:village_plains
+[03:30:45] [Server thread/INFO]: Locating element minecraft:village_plains took 1009 ms
+[03:31:01] [Async Chat Thread - #6/INFO]: [Not Secure] <Luis512MC> estoy perdido
+[03:31:06] [Server thread/INFO]: Luis512MC issued server command: /tp Luis512MC .CrashBlock73577
+[03:31:06] [Server thread/INFO]: [Luis512MC: Teleported Luis512MC to .CrashBlock73577]
+[03:31:10] [Async Chat Thread - #6/INFO]: [Not Secure] <.CrashBlock73577> XD
+[03:31:39] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:31:39] [Server thread/INFO]: Luis512MC left the game
+[03:32:18] [User Authenticator #7/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:32:20] [Server thread/INFO]: Luis512MC joined the game
+[03:32:20] [Server thread/INFO]: Luis512MC[/127.48.121.197:43507] logged in with entity id 7392 at ([world_nether]222.00401169146312, 90.0, -76.5)
+[03:32:34] [Server thread/WARN]: Luis512MC moved too quickly! -0.03378119100611343,-0.20000004768371582,-14.331589424816798
+[03:33:18] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:33:18] [Server thread/INFO]: Luis512MC left the game
+[03:33:29] [User Authenticator #8/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:33:30] [Server thread/INFO]: Luis512MC joined the game
+[03:33:30] [Server thread/INFO]: Luis512MC[/127.48.121.197:43619] logged in with entity id 7672 at ([world_nether]209.92654728061234, 76.0, -99.67082198603492)
+[03:34:07] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:34:07] [Server thread/INFO]: Luis512MC left the game
+[03:34:17] [User Authenticator #8/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:34:19] [Server thread/INFO]: Luis512MC joined the game
+[03:34:19] [Server thread/INFO]: Luis512MC[/127.48.121.197:37759] logged in with entity id 7848 at ([world_nether]208.12157798632094, 75.0, -133.17106386837872)
+[03:34:40] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[03:34:57] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:34:57] [Server thread/INFO]: Luis512MC left the game
+[03:35:16] [User Authenticator #8/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:35:18] [Server thread/INFO]: Luis512MC joined the game
+[03:35:18] [Server thread/INFO]: Luis512MC[/127.48.121.197:47697] logged in with entity id 8072 at ([world_nether]176.88964429549526, 73.0, -133.3107421732775)
