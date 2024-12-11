@@ -331,3 +331,34 @@
 [04:55:03] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
 [04:55:26] [Async Chat Thread - #26/INFO]: [Not Secure] <.CrashBlock73577> llevameparaalla
 [04:56:01] [Async Chat Thread - #26/INFO]: [Not Secure] <Luis512MC> no porque te alteras
+[04:56:11] [Async Chat Thread - #26/INFO]: [Not Secure] <.CrashBlock73577> ya wey
+[04:56:31] [Async Chat Thread - #26/INFO]: [Not Secure] <Luis512MC> no responde la fer
+[04:56:35] [Async Chat Thread - #26/INFO]: [Not Secure] <Luis512MC> no hace nada
+[04:58:21] [localSession-7-3/INFO]: [Geyser-Spigot] Dayanefer188 has disconnected from the Java server because of Bedrock client disconnected
+[04:58:21] [Server thread/INFO]: .Dayanefer188 lost connection: Disconnected
+[04:58:21] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Dayanefer188 disconnected
+[04:58:21] [Server thread/INFO]: .Dayanefer188 left the game
+[04:58:25] [Async Chat Thread - #26/INFO]: [Not Secure] <Luis512MC> XD
+[04:58:31] [Async Chat Thread - #26/INFO]: [Not Secure] <.CrashBlock73577> XD
+[04:58:34] [Server thread/INFO]: Luis512MC issued server command: /tp Luis512MC .CrashBlock73577
+[04:58:34] [Server thread/INFO]: [Luis512MC: Teleported Luis512MC to .CrashBlock73577]
+[04:59:19] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[04:59:19] [Server thread/INFO]: Luis512MC left the game
+[05:00:50] [Server thread/INFO]: .CrashBlock73577 has made the advancement [What a Deal!]
+[05:02:13] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Dayanefer188
+[05:02:13] [localSession-7-4/INFO]: [Geyser-Spigot] Dayanefer188 (logged in as: Dayanefer188) has connected to the Java server
+[05:02:14] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Dayanefer188 joined (UUID: 00000000-0000-0000-0009-01f0a3137115)
+[05:02:14] [Server thread/INFO]: .Dayanefer188 joined the game
+[05:02:14] [Server thread/INFO]: .Dayanefer188[/127.0.0.1:0] logged in with entity id 24545 at ([world]18.03484, 63.0, 99.31587)
+[05:02:26] [Async Chat Thread - #28/INFO]: [Not Secure] <.CrashBlock73577> XD
+[05:03:48] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Dayanefer188 disconnected
+[05:03:48] [localSession-7-4/INFO]: [Geyser-Spigot] Dayanefer188 has disconnected from the Java server because of Bedrock client disconnected
+[05:03:48] [Server thread/INFO]: .Dayanefer188 lost connection: Disconnected
+[05:03:48] [Server thread/INFO]: .Dayanefer188 left the game
+[05:03:59] [Server thread/INFO]: .CrashBlock73577 was shot by Skeleton
+[05:04:19] [Server thread/INFO]: [AngelChest] .CrashBlock73577 opened the AngelChest of .CrashBlock73577 at Location{world=CraftWorld{name=world},x=1757.0,y=135.0,z=-762.0,pitch=0.0,yaw=0.0}
+[05:04:38] [Server thread/INFO]: [AngelChest] .CrashBlock73577 opened the AngelChest of .CrashBlock73577 at Location{world=CraftWorld{name=world},x=1757.0,y=135.0,z=-762.0,pitch=0.0,yaw=0.0}
+[05:06:03] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client disconnected
+[05:06:03] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[05:06:03] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[05:06:03] [Server thread/INFO]: .CrashBlock73577 left the game
