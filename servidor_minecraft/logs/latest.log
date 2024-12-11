@@ -199,3 +199,27 @@
 [04:04:20] [Server thread/INFO]: Jogitoramon joined the game
 [04:04:20] [Server thread/INFO]: Jogitoramon[/127.48.121.197:56111] logged in with entity id 8184 at ([world]542.6999999880791, 61.0, -519.5904678459627)
 [04:04:59] [Server thread/INFO]: Jogitoramon was shot by Luis512MC
+[04:05:16] [Server thread/INFO]: Jogitoramon lost connection: Timed out
+[04:05:16] [Server thread/INFO]: Jogitoramon left the game
+[04:05:22] [Server thread/INFO]: .CrashBlock73577 was burned to a crisp while fighting Magma Cube
+[04:05:25] [User Authenticator #6/INFO]: UUID of player Jogitoramon is 7fb7be7d-281c-3be4-a990-a8900131a4bc
+[04:05:26] [Server thread/INFO]: Jogitoramon joined the game
+[04:05:26] [Server thread/INFO]: Jogitoramon[/127.48.121.197:36653] logged in with entity id 8725 at ([world]541.844125764573, 61.0, -519.5566498847128)
+[04:06:44] [Server thread/INFO]: Jogitoramon lost connection: Timed out
+[04:06:44] [Server thread/INFO]: Jogitoramon left the game
+[04:08:37] [Server thread/INFO]: .CrashBlock73577 tried to swim in lava
+[04:09:23] [Server thread/INFO]: Luis512MC issued server command: /tp .CrashBlock73577 Luis512MC
+[04:09:23] [Server thread/INFO]: [Luis512MC: Teleported .CrashBlock73577 to Luis512MC]
+[04:09:39] [User Authenticator #7/INFO]: UUID of player Jogitoramon is 7fb7be7d-281c-3be4-a990-a8900131a4bc
+[04:09:41] [Server thread/INFO]: Jogitoramon joined the game
+[04:09:41] [Server thread/INFO]: Jogitoramon[/127.48.121.197:53435] logged in with entity id 9953 at ([world]542.2375000119209, 61.0, -519.5347120228464)
+[04:10:22] [Server thread/INFO]: Jogitoramon lost connection: Timed out
+[04:10:22] [Server thread/INFO]: Jogitoramon left the game
+[04:11:51] [User Authenticator #8/INFO]: UUID of player Jogitoramon is 7fb7be7d-281c-3be4-a990-a8900131a4bc
+[04:11:52] [Server thread/INFO]: Jogitoramon joined the game
+[04:11:52] [Server thread/INFO]: Jogitoramon[/127.48.121.197:43763] logged in with entity id 10740 at ([world]540.4521469112657, 59.0, -519.4680652674766)
+[04:14:27] [Server thread/INFO]: Jogitoramon lost connection: Timed out
+[04:14:27] [Server thread/INFO]: Jogitoramon left the game
+[04:14:48] [User Authenticator #9/INFO]: UUID of player Jogitoramon is 7fb7be7d-281c-3be4-a990-a8900131a4bc
+[04:14:49] [Server thread/INFO]: Jogitoramon joined the game
+[04:14:49] [Server thread/INFO]: Jogitoramon[/127.48.121.197:52397] logged in with entity id 12076 at ([world]815.151387699611, 80.0, -514.8369266163197)
