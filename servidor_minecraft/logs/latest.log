@@ -260,3 +260,16 @@
 [04:34:02] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
 [04:34:02] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
 [04:34:02] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[04:38:48] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[04:39:19] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[04:40:17] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> y entra en
+[04:40:20] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> 3
+[04:41:05] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> 2
+[04:44:40] [Async Chat Thread - #22/INFO]: [Not Secure] <Luis512MC> 1
+[04:44:54] [Async Chat Thread - #22/INFO]: [Not Secure] <Luis512MC> otra vez
+[04:44:59] [Async Chat Thread - #22/INFO]: [Not Secure] <Luis512MC> entra en 3
+[04:45:06] [Server thread/INFO]: Luis512MC issued server command: /realregions
+[04:45:16] [Async Chat Thread - #22/INFO]: [Not Secure] <Luis512MC> 2
+[04:45:17] [Async Chat Thread - #22/INFO]: [Not Secure] <.CrashBlock73577> Alex?
+[04:45:50] [Server thread/INFO]: Luis512MC issued server command: /tp Luis512MC .CrashBlock73577
+[04:45:50] [Server thread/INFO]: [Luis512MC: Teleported Luis512MC to .CrashBlock73577]
